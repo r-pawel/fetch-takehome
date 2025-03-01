@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/R-Pawel/fetch-takehome/internal/router"
 	"github.com/gin-gonic/gin"
+	"github.com/r-pawel/fetch-takehome/internal/router"
 )
 
 func main() {

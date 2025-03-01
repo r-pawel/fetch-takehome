@@ -1,9 +1,9 @@
 package router
 
 import (
-	"github.com/R-Pawel/fetch-takehome/internal/models"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
+	"github.com/r-pawel/fetch-takehome/internal/models"
 	"net/http"
 )
 

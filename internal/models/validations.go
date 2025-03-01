@@ -10,6 +10,8 @@ import (
 	"unicode"
 )
 
+// TODO separate validation and calculating points into separate functions
+
 func CheckMissingData(retailer string, items []Item) error {
 	if strings.Trim(retailer, " ") == "" || len(items) == 0 {
 		return fmt.Errorf("missing data")

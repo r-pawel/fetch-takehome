@@ -1,4 +1,4 @@
-module github.com/R-Pawel/fetch-takehome
+module github.com/r-pawel/fetch-takehome
 
 go 1.23.6
 
